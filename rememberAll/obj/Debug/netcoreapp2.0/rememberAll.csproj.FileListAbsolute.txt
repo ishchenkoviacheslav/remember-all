@@ -1,0 +1,14 @@
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\obj\Debug\netcoreapp2.0\rememberAll.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\obj\Debug\netcoreapp2.0\rememberAll.AssemblyInfoInputs.cache
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\obj\Debug\netcoreapp2.0\rememberAll.AssemblyInfo.cs
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\bin\Debug\netcoreapp2.0\rememberAll.deps.json
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\bin\Debug\netcoreapp2.0\rememberAll.runtimeconfig.json
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\bin\Debug\netcoreapp2.0\rememberAll.runtimeconfig.dev.json
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\bin\Debug\netcoreapp2.0\rememberAll.dll
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\bin\Debug\netcoreapp2.0\rememberAll.pdb
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\bin\Debug\netcoreapp2.0\ClassLibrary1.pdb
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\obj\Debug\netcoreapp2.0\rememberAll.csproj.CopyComplete
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\obj\Debug\netcoreapp2.0\rememberAll.dll
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\obj\Debug\netcoreapp2.0\rememberAll.pdb
+C:\Users\user\documents\visual studio 2017\Projects\rememberAll\rememberAll\obj\Debug\netcoreapp2.0\rememberAll.csprojResolveAssemblyReference.cache

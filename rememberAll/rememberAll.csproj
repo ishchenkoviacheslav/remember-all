@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary1">
+      <HintPath>..\..\..\..\..\Downloads\фото\netcoreapp2.0\ClassLibrary1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
